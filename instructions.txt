@@ -1,0 +1,7 @@
+         Instructions:-
+1) You start with 10 points.
+2) You will be asked a randomly generated question.
+  If you answer it correctly, dice will be rolled
+  and the sum of the results is added to your points
+3) However if you get it wrong you lose 3 points.
+4) Reach 50 points to win. If your points become negative, you lose. 

@@ -1,0 +1,10 @@
+false
+false
+true
+capwords()
+readline()
+list
+keys()
+continue
+true
+object

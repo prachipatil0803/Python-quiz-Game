@@ -1,0 +1,10 @@
+A python function can only return a single value. True or false?
+A function can take an unlimited number of arguments.True or false?
+Python function doesn’t return anything unless and until you add a return statement. True or False?
+Which function can be used to convert the string "welcome to the beautiful world of python" to "Welcome To The Beautiful World Of Python?
+Which function is used to read a single line from a file?
+Which python datatype is denoted by square brackets?
+Which function of dictionary gets all the keys from the dictionary?
+Which statement causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating?
+Tuples are immutable. True or False?
+Fill in the blank. _________ is an instance of a class.
